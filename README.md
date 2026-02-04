@@ -13,3 +13,7 @@ Search for any Pokémon and view its name, image, and type.
 ## Live Demo
 [Try it on CodePen]
 https://codepen.io/Sahil-Khetal/details/XJKYOQr
+
+##Pokedex v1
+[Try it on Codepen]
+https://codepen.io/Sahil-Khetal/details/KwMeJWR
